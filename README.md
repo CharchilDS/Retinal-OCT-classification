@@ -11,3 +11,6 @@ This project is concentrated towards classifying the OCT images into 4 types
 3)Diabetic macular edema(DME)
 4)Drusen 
 ![image](https://user-images.githubusercontent.com/98983417/236470687-27ba4576-1153-4949-abd8-6b31c5e82995.png)
+
+Project Model Link 
+https://drive.google.com/drive/folders/1XOwQ_IrLaqB0Avh06OO2TqSRHsh1j5iO?usp=share_link
